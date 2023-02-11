@@ -1,0 +1,22 @@
+body
+{
+background-color: lightblue;
+}
+
+.score
+{
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+.time
+{
+    font-size:12px;
+    float: right;
+    margin-right: 20px;
+}
+
+.draw
+{
+    color: blue;
+}
